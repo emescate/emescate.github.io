@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://emescate.github.io/sitemap
+Sitemap: https://emescate.github.io/app/sitemap
+Sitemap: https://emescate.github.io/assets/sitemap
+Sitemap: https://emescate.github.io/css/sitemap
+Sitemap: https://emescate.github.io/includes/sitemap
+Sitemap: https://emescate.github.io/item/sitemap
+Sitemap: https://emescate.github.io/src/sitemap
